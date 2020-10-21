@@ -1,6 +1,6 @@
 # NCAS Data Project - Training Data
 
-A tool to generate training data for all NCAS Data Project products.
+A tool to generate training data for all NCAS Data Project products.   
 
 ## Usage
 
